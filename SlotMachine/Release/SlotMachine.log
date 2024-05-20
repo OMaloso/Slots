@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Previous IPDB not found, fall back to full compilation.
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SlotMachine.vcxproj -> C:\Users\user\Desktop\MDS\Year 1\Semester 1\Intro to Software Engineering\Assignment 1 - mini project\SlotMachine\Release\SlotMachine.exe
